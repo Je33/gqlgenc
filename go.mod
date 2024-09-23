@@ -1,4 +1,4 @@
-module github.com/Yamashou/gqlgenc
+module github.com/Je33/gqlgenc
 
 go 1.22.5
 

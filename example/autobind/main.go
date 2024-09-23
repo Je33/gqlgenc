@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Yamashou/gqlgenc/clientv2"
-	"github.com/Yamashou/gqlgenc/example/github/gen"
+	"github.com/Je33/gqlgenc/clientv2"
+	"github.com/Je33/gqlgenc/example/github/gen"
 )
 
 func main() {

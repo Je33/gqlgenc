@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/99designs/gqlgen/api"
-	"github.com/Yamashou/gqlgenc/clientgenv2"
-	"github.com/Yamashou/gqlgenc/config"
-	"github.com/Yamashou/gqlgenc/generator"
+	"github.com/Je33/gqlgenc/clientgenv2"
+	"github.com/Je33/gqlgenc/config"
+	"github.com/Je33/gqlgenc/generator"
 	"github.com/urfave/cli/v2"
 )
 

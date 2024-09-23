@@ -6,8 +6,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/Yamashou/gqlgenc/clientv2"
-	"github.com/Yamashou/gqlgenc/example/input-scalar/gen"
+	"github.com/Je33/gqlgenc/clientv2"
+	"github.com/Je33/gqlgenc/example/input-scalar/gen"
 )
 
 func main() {
